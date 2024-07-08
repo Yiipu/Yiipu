@@ -19,4 +19,9 @@
   Latest Blog Posts
 </h2>
 <!-- BLOG-POST-LIST:START -->
+- [Next.js 全栈开发踩坑记](https://yiipu.github.io/posts/next-fullstack/)
+- [量子计算科普文章随记](https://yiipu.github.io/posts/reading-qcvc/)
+- [用 C++ 实现一个高精度整数类](https://yiipu.github.io/posts/high-percision/)
+- [在 WSL 下进行 FPGA 开发](https://yiipu.github.io/posts/fpga-with-wsl/)
+- [Git 团队协作指南](https://yiipu.github.io/posts/git-teamwork/)
 <!-- BLOG-POST-LIST:END -->
