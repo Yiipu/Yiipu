@@ -1,7 +1,7 @@
 <h2>
   <picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="20" height="20">
   </picture>
    Hi there!
 </h2>
@@ -14,10 +14,11 @@
 <h2>
   <picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="32" height="32">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="20" height="20">
   </picture>
   Latest Blog Posts
 </h2>
+
 <!-- BLOG-POST-LIST:START -->
 - [Next.js 全栈开发踩坑记](https://yiipu.github.io/posts/next-fullstack/)
 - [量子计算科普文章随记](https://yiipu.github.io/posts/reading-qcvc/)
