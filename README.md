@@ -1,16 +1,22 @@
-## Hi there 👋
+<h2>
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+  </picture>
+   Hi there!
+</h2>
 
-<!--
-**Yiipu/Yiipu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning at HUST.
+- 👽 I love sci-fi.
 
-Here are some ideas to get you started:
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yiipu&layout=compact&title_color=ffffff&text_color=eeeeee&bg_color=43,4158D0,C850C0,FFCC70" alt="Top Langs"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="32" height="32">
+  </picture>
+  Latest Blog Posts
+</h2>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
