@@ -17,6 +17,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://yiipu.github.io/feed.xml"
-          template: "$newline - <details> <summary>[$title]($url) | $emojiKey(🌕,🌖,🌗,🌘,🌑) Date: $date</summary> $description </details>"
+          template: "$newline - [$title]($url) | $emojiKey(🌕,🌖,🌗,🌘,🌑) Date: $date"
           categories_template: "`$category` "
           date_format: "UTC:mmm d,yyyy"
