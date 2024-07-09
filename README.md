@@ -69,9 +69,8 @@ timeline
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 全栈开发踩坑记](https://yiipu.github.io/posts/next-fullstack/)
-- [量子计算科普文章随记](https://yiipu.github.io/posts/reading-qcvc/)
-- [用 C++ 实现一个高精度整数类](https://yiipu.github.io/posts/high-percision/)
-- [在 WSL 下进行 FPGA 开发](https://yiipu.github.io/posts/fpga-with-wsl/)
-- [Git 团队协作指南](https://yiipu.github.io/posts/git-teamwork/)
-<!-- BLOG-POST-LIST:END -->
+ - [Next.js 全栈开发踩坑记](https://yiipu.github.io/posts/next-fullstack/) | 🏷️ Tags:  | 🌕🌖🌗🌘🌑 Date: Wed Jun 19 2024 4:00 PM
+ - [量子计算科普文章随记](https://yiipu.github.io/posts/reading-qcvc/) | 🏷️ Tags:  | 🌕🌖🌗🌘🌑 Date: Sun Apr 07 2024 4:00 PM
+ - [用 C++ 实现一个高精度整数类](https://yiipu.github.io/posts/high-percision/) | 🏷️ Tags:  | 🌕🌖🌗🌘🌑 Date: Thu Mar 14 2024 12:00 PM
+ - [在 WSL 下进行 FPGA 开发](https://yiipu.github.io/posts/fpga-with-wsl/) | 🏷️ Tags:  | 🌕🌖🌗🌘🌑 Date: Fri Dec 01 2023 4:00 AM
+ - [Git 团队协作指南](https://yiipu.github.io/posts/git-teamwork/) | 🏷️ Tags:  | 🌕🌖🌗🌘🌑 Date: Thu Oct 26 2023 4:00 AM<!-- BLOG-POST-LIST:END -->
