@@ -28,13 +28,15 @@
   </tr>
 </table>
 
-<h2>
+<details>
+
+<summary>
   <picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f42c/512.webp" type="image/webp">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f42c/512.gif" alt="🐬" width="20" height="20">
   </picture>
   More about me
-</h2>
+</summary>
 
 ```json
 {
@@ -59,6 +61,8 @@ timeline
          : I started writing blogs ✏️
     2024 : I developed a full-stack web app using Next.js 🚀
 ```
+
+</details>
 
 <h2>
   <picture>
