@@ -47,9 +47,9 @@
 
 ```mermaid
 timeline
-    title timeline
+    title yiipu.drawTimeLine()
     2003 : I was born 🎉
-    2018 : I wrote my first program in python 🐍
+    2018 : I wrote my first code in python 🐍
     2021 : I was admitted by HUST 🏫
          : where i wrote my first "Hello World" in C 👋
     2022 : I created my first repo on Github 🐙
