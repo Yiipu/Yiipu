@@ -6,18 +6,32 @@
    Hi there!
 </h2>
 
-- 🌱 I'm currently studying at HUST.
-- ⚡️ I like
-  - 🛸 Sci-Fi
-  - 🧑‍💻 Coding
-  - 🐱 Cats
-
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yiipu&layout=compact&title_color=ffffff&text_color=eeeeee&bg_color=43,4158D0,C850C0,FFCC70" alt="Top Langs"/></a>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🌱 I'm currently studying at HUST.</li>
+        <li>⚡️ I like
+          <ul>
+            <li>🛸 Sci-Fi</li>
+            <li>🧑‍💻 Coding</li>
+            <li>🐱 Cats</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td>
+      <a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yiipu&layout=compact&title_color=ffffff&text_color=eeeeee&bg_color=43,4158D0,C850C0,FFCC70" alt="Top Langs"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h2>
   <picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f42c/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f42c/512.gif" alt="🐬" width="32" height="32">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f42c/512.gif" alt="🐬" width="20" height="20">
   </picture>
   More about me
 </h2>
@@ -29,6 +43,21 @@
   "coding-language" : ["js","cpp","python","java"],
   "tools": ["vscode", "docker"]
 }
+```
+
+```mermaid
+timeline
+    title timeline
+    2003 : I was born 🎉
+    2018 : I wrote my first program in python 🐍
+    2021 : I was admitted by HUST 🏫
+         : where i wrote my first "Hello World" in C 👋
+    2022 : I created my first repo on Github 🐙
+    2023 : I opened my first pull request ⭐️
+         : I wrote a simple Wechat bot 🤖
+         : My teammates and I developed a web app together 🤝
+         : I started writing blogs ✏️
+    2024 : I developed a full-stack web app using Next.js 🚀
 ```
 
 <h2>
