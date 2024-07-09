@@ -13,7 +13,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in dev.to posts
+      - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://yiipu.github.io/feed.xml"
+          template: "$newline - [$title]($url) | 🏷️ Tags: $categories | $emojiKey(🌕🌖🌗🌘🌑) Date: $date"
+          categories_template: "`$category` "
