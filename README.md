@@ -14,7 +14,7 @@
         <li>⚡️ I like
           <ul>
             <li>🛸 Sci-Fi</li>
-            <li>🧑‍💻 Coding</li>
+            <li>💻 Coding</li>
             <li>🐱 Cats</li>
           </ul>
         </li>
