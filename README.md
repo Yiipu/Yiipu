@@ -73,8 +73,8 @@ timeline
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
- - [Next.js 全栈开发踩坑记](https://yiipu.github.io/posts/next-fullstack/) | 🌕 Jun 19,2024
- - [量子计算科普文章随记](https://yiipu.github.io/posts/reading-qcvc/) | 🌖 Apr 7,2024
- - [用 C++ 实现一个高精度整数类](https://yiipu.github.io/posts/high-percision/) | 🌗 Mar 14,2024
- - [在 WSL 下进行 FPGA 开发](https://yiipu.github.io/posts/fpga-with-wsl/) | 🌘 Dec 1,2023
- - [Git 团队协作指南](https://yiipu.github.io/posts/git-teamwork/) | 🌑 Oct 26,2023<!-- BLOG-POST-LIST:END -->
+ - [Go 语言初见](https://yiipu.github.io/posts/basics-of-go/) | 🌕 Sep 16,2024
+ - [Next.js 全栈开发踩坑记](https://yiipu.github.io/posts/next-fullstack/) | 🌖 Jun 19,2024
+ - [量子计算科普文章随记](https://yiipu.github.io/posts/reading-qcvc/) | 🌗 Apr 7,2024
+ - [用 C++ 实现一个高精度整数类](https://yiipu.github.io/posts/high-percision/) | 🌘 Mar 14,2024
+ - [在 WSL 下进行 FPGA 开发](https://yiipu.github.io/posts/fpga-with-wsl/) | 🌑 Dec 1,2023<!-- BLOG-POST-LIST:END -->
