@@ -7,8 +7,8 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
- - [Go 语言初见](https://yiipu.github.io/posts/basics-of-go/) | 🌕 Sep 16,2024
- - [Next.js 全栈开发踩坑记](https://yiipu.github.io/posts/next-fullstack/) | 🌖 Jun 19,2024
- - [量子计算科普文章随记](https://yiipu.github.io/posts/reading-qcvc/) | 🌗 Apr 7,2024
- - [用 C++ 实现一个高精度整数类](https://yiipu.github.io/posts/high-percision/) | 🌘 Mar 14,2024
- - [在 WSL 下进行 FPGA 开发](https://yiipu.github.io/posts/fpga-with-wsl/) | 🌑 Dec 1,2023<!-- BLOG-POST-LIST:END -->
+ - [Windows 终端运行 python 打开 MS Store 的解决方法](https://yiipu.github.io/posts/windows-python-alias/) | 🌕 Feb 1,2026
+ - [Go 语言初见](https://yiipu.github.io/posts/basics-of-go/) | 🌖 Sep 16,2024
+ - [Next.js 全栈开发踩坑记](https://yiipu.github.io/posts/next-fullstack/) | 🌗 Jun 19,2024
+ - [量子计算科普文章随记](https://yiipu.github.io/posts/reading-qcvc/) | 🌘 Apr 7,2024
+ - [用 C++ 实现一个高精度整数类](https://yiipu.github.io/posts/high-percision/) | 🌑 Mar 14,2024<!-- BLOG-POST-LIST:END -->
