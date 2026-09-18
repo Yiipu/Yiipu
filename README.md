@@ -7,8 +7,8 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
- - [用 Hammerspoon 把 Finder 的 Cmd+数字 从切视图改成切标签页](https://yiipu.github.io/posts/hammerspoon-finder-cmd-tab/) | 🌕 Aug 22,2026
- - [Deepseek Harness 仓库分析报告](https://yiipu.github.io/posts/deepseek-harness-analysis/) | 🌖 Aug 14,2026
- - [iii-hq/iii 仓库分析报告](https://yiipu.github.io/posts/iii-engine-analysis/) | 🌗 Aug 6,2026
- - [NousResearch/hermes-agent 仓库分析报告](https://yiipu.github.io/posts/hermes-agent-analysis/) | 🌘 Aug 2,2026
- - [EvoMap/evolver 仓库分析报告](https://yiipu.github.io/posts/evolver-analysis/) | 🌑 Aug 2,2026<!-- BLOG-POST-LIST:END -->
+ - [生成式软件工程：知识地图与核心命题](https://yiipu.github.io/posts/generative-software-engineering/) | 🌕 Sep 17,2026
+ - [用 Hammerspoon 把 Finder 的 Cmd+数字 从切视图改成切标签页](https://yiipu.github.io/posts/hammerspoon-finder-cmd-tab/) | 🌖 Aug 22,2026
+ - [Deepseek Harness 仓库分析报告](https://yiipu.github.io/posts/deepseek-harness-analysis/) | 🌗 Aug 14,2026
+ - [iii-hq/iii 仓库分析报告](https://yiipu.github.io/posts/iii-engine-analysis/) | 🌘 Aug 6,2026
+ - [NousResearch/hermes-agent 仓库分析报告](https://yiipu.github.io/posts/hermes-agent-analysis/) | 🌑 Aug 2,2026<!-- BLOG-POST-LIST:END -->
